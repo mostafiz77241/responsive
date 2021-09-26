@@ -1,0 +1,266 @@
+@media(max-width:768px) and (min-width:576px){
+}    
+@media(max-width:768px){
+    .top_header{
+        display: none;
+    }
+    .iphone_6 img {
+        display: none;
+    }
+    .second_banner h1 {
+        text-align: center;
+    }
+    .second_banner span {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .intraction_item{
+        margin: 15px 0;
+    }
+    .safe {
+        top: 15%;
+        left: 17%;
+        transform: translate(-17%, -15%);
+    }
+    .wallet {
+        left: 15%;
+        bottom: 0%;
+        transform: translate(-15%, 0%);
+    }
+    .buyes {
+        left: 77%;
+        bottom: -9%;
+        transform: translate(-5%, -77%);
+    }
+    .expart {
+        top: 11%;
+        left: 83%;
+        transform: translate(-83%, -11%);
+    }
+    .phone{
+        top: 55%;
+        left: 17%;
+        transform: translate(-17%, -55%);
+    }
+    .excancg{
+        top: 51%;
+       left: 83%;
+      transform: translate(-83%, -51%);
+
+    }
+    .bitcoin_chart img{
+        width: 53%;
+    }
+    .trem_expart p {
+        font-size: 13px;
+    }
+    .investors p {
+        font-size: 11px;
+    }
+    .count_section {
+        height: 194px;
+       
+    }
+    .blog_item i {
+        top: 364px;
+        right: 408px;
+    }
+    .blog p {
+        font-size: 11px;
+    }
+    .blog_item h3 {
+        font-size: 24px;
+    }
+    .blog_item i{
+        top: 369px;
+        right: 406px;
+    }
+    .contact_icon{
+        margin-left: -117px;
+         margin-top: 10px;
+    }
+    .link_menu ul {
+        margin-left: -112px;
+    }
+}
+@media(max-width:576px){
+  .intraction_item{
+      margin: 15px 0;
+  }
+  .iphone_6 img {
+    display: none;
+}
+.box, .box {
+    width: 50px;
+    height: 50px;
+    margin-left: 46px;
+}
+.second_banner h1{
+    margin-left: 70px;
+    margin-bottom: 20px;
+    font-size: 19px
+}
+.second_banner span{
+    margin: auto;
+}
+.li_content{
+    margin-left: 60px;
+}
+.count_section {
+    height: 207px;
+   
+}
+.safe {
+    top: 10%;
+    left: 20%;
+    transform: translate(-20%, -10%);
+}
+.phone {
+    top: 55%;
+    left: 20%;
+    transform: translate(-20%, -55%);
+}
+.wallet {
+    left: 22%;
+    bottom: -4%;
+    transform: translate(-27%, -4%);
+}
+.expart {
+    top: 7%;
+    left: 79%;
+    transform: translate(-79%, -7%);
+}
+.excancg {
+    top: 51%;
+    left: 80%;
+    transform: translate(-80%, -51%);
+}
+.buyes {
+    left: 79%;
+    bottom: -9%;
+    transform: translate(-79%, -9%);
+}
+.trem_expart p {
+
+    font-size: 12px;
+}
+.phone {
+    top: 55%;
+    left: 19%;
+    transform: translate(-19%, -55%);
+}
+.bitcoin_chart img {
+    width: 63%;
+}
+}
+@media(min-width:320px){
+    .banner h1 {
+        font-size: 18px;
+    }
+    .count_item h5 {
+        font-size: 11px;
+    }
+    .count_item h6 {
+        font-size: 11px;
+    }
+    .li_content {
+        margin-left: 60px;
+    }
+    .second_banner ul li p {
+        font-size: 14px;
+    }
+    .count_part h4 {
+        font-size: 10px;
+    }
+    .safe .icon, .phone .icon, .wallet .icon, .expart .icon, .excancg .icon, .buyes .icon {
+        font-size: 20px;
+        width: 45px;
+        height: 45px;
+    }
+    .safe p, .phone p, .wallet p, .expart p, .excancg p, .buyes p {
+        font-size: 7px;
+    }
+    .bitcoin_chart img {
+        width: 75%;
+    }
+    .footer_logo p {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .footer_icon ul {
+        margin-left: 10px;
+    }
+    .investors p {
+        font-size: 12px;
+      
+    }
+}
+@media(min-width:375px){
+    .count_part h4 {
+        font-size: 11px;
+    }
+    .bitcoin_chart img {
+        width: 70%;
+    }
+}
+@media(min-width:425px){
+    .safe p, .phone p, .wallet p, .expart p, .excancg p, .buyes p {
+        font-size: 9px;
+    }
+    .safe {
+        top: 8%;
+        left: 20%;
+        transform: translate(-20%, -8%);
+    }
+    .contact_icon {
+    
+        margin-left: 10px;
+    }
+    .footer_contact h2, .link h2, .newsletter h2 {
+        text-align: center;
+    }
+    .footer_contact span, .link span, .newsletter span {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .to_menu ul {
+        margin: 10px 15px;
+    }
+    .investors p {
+        font-size: 15px;
+    }
+    .blog_item i {
+        top: 267px;
+        right: 303px;
+    }
+    .bitcoin_chart img{
+        width: 62%;
+    }
+}
+@media(min-width:375px){
+    .blog_item i {
+        top: 362px;
+        right: 409px;
+    }
+    .blog_item h3 {
+        font-size: 17px;
+    }
+    .blog_item p {
+        font-size: 14px;
+    }
+    .blog p {
+        font-size: 16px;
+       
+    }
+    .contact_icon {
+        margin-left: -117px;
+        margin-top: 10px;
+    }
+    .footer_contact h2, .link h2, .newsletter h2 {
+        text-align: center;
+    }
+    .footer_contact span, .link span, .newsletter span {
+        margin: auto;
+    }
+
+}
